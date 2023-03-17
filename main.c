@@ -11,7 +11,7 @@ void printArray(const int a[]);
 // Ponto de entrada da aplicação
 int main()
 {
-    setlocale(LC_ALL,"");
+    setlocale(LC_ALL,"PT-BR");
     int frequency[9];
     int responce[SIZE] = { //Inicializa a frequência do array
         6,  4,  6,  4,  7,  3,  9,  5,  3,  7,
